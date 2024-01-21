@@ -1,6 +1,6 @@
 Monte Carlo Photon Propagation Simulation
 
-Welcome to the Monte Carlo algorithm in MATLAB designed for simulating photon propagation in tissue with 0.2 x 0.2 x 0.2 cm dimensions. By running this code, you can generate a dynamic fluence visualization that provides insights into photon behavior at varying tissue depths. An example of the visualization can be found in the included 'sample.gif' file within this repository.
+Welcome to the Monte Carlo algorithm in MATLAB designed for simulating photon propagation in tissue with 0.2 x 0.2 x 0.2 cm dimensions. By running this code, you can generate a dynamic fluence visualization that provides insights into photon behavior at varying tissue depths. An example of the visualization can be found in the included 'sample.gif' file within this repository. This algorithm was implemented based on the reference paper included in this repo.
 
 Overview
 
